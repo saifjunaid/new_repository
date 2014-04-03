@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/STEST1/Downloads/selenium-server-standalone-2.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STEST1/Downloads/flashselenium-java-client-extension-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STEST1/Downloads/flex-ui-selenium-0.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/STEST1/Downloads/sikuli-api-1.0.2-standalone.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
